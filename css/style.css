@@ -296,7 +296,6 @@ header .hero {
    margin-left: -10px;
  }
 
-
  .testimonials img {
    height: 65px;
    width: 65px;
@@ -311,4 +310,9 @@ header .hero {
    text-align: left;
    font-size:13px;
    margin-top: 30px;
+ }
+
+ .lower {
+   position: relative;
+   top: 20px;   
  }
