@@ -137,6 +137,7 @@ header .hero {
  header .hero img {
    display: block;
    margin:3em auto 0;
+   width: 75%;
  }
 
  /* BUTTONS */
@@ -314,5 +315,5 @@ header .hero {
 
  .lower {
    position: relative;
-   top: 20px;   
+   top: 20px;
  }
