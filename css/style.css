@@ -434,8 +434,8 @@ header .hero {
   margin-right:8px;
 }
 
-.left-nav .items .active li {
-    background-color: yellow;
+.left-nav .items .active ul li a {
+    background-color: #FF0000;
 }
 
 /* LEFT NAVBAR SETTINGS */
