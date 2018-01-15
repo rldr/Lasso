@@ -434,8 +434,8 @@ header .hero {
   margin-right:8px;
 }
 
-.left-nav .items .active ul li a {
-    background-color: #FF0000;
+.left-nav .items ul li.active a {
+    color: goldenrod;
 }
 
 /* LEFT NAVBAR SETTINGS */
@@ -472,6 +472,11 @@ header .hero {
    margin-top:8px;
  }
 
+.left-nav .settings .items ul li a.activel {
+
+  color: yellow;
+
+}
 
 
  /* CONTENT */
