@@ -62,8 +62,14 @@ display:inline-block;
 }
 
 .settings .dropit .dropit-open .dropit-submenu {
-  background-color: grey;
   top: inherit;
   bottom: 100%;
+
+}
+
+.settings .dropit .dropit-open .dropit-submenu:after {
+  top: auto;
+  bottom: -8px;
+  border-width: 8px 8px 0;
 
 }
